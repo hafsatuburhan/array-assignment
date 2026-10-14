@@ -1,1 +1,1 @@
-# Student Grades Management System 
+# Student Grade Management System 
